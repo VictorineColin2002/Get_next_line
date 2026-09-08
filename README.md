@@ -163,9 +163,12 @@ containing an empty line in the middle, with `BUFFER_SIZE=1`).
 
 ## Ressources
 
-https://www.youtube.com/watch?v=MCIwn7mY4jY : explicative video on the linked lists for beginners;
-https://www.youtube.com/watch?v=928Xhm_jByo : explicative video by the same creator (Bluefever Software);
-https://www.youtube.com/watch?v=OngGUoENgWo : explicative video on the static variable;
+https://www.youtube.com/watch?v=MCIwn7mY4jY : explicative video on the linked lists for beginners
+
+https://www.youtube.com/watch?v=928Xhm_jByo : explicative video by the same creator (Bluefever Software)
+
+https://www.youtube.com/watch?v=OngGUoENgWo : explicative video on the static variable
+
 ### On AI
 For this project, we used the help of Claude Code and ChatGPT to give this project a clean structure. 
 It also helped the understanding of the concept of static variable and to help with the debugging.
